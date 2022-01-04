@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942864748198",
+    "project_id": "delivery-89fcb",
+    "storage_bucket": "delivery-89fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942864748198:android:92cc7b760a9cd87ecbee67",
+        "android_client_info": {
+          "package_name": "com.ash_magic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942864748198-oafbkf67dvn9rhvna1ls8ht089e593lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0gNi3Cz_urr1-YGe1F4ctFwO__j14oek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942864748198-oafbkf67dvn9rhvna1ls8ht089e593lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
